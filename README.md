@@ -8,6 +8,15 @@ PCB board design for **Phase 1 of the BrakeWise Plus Tool** (ATI brake tread bod
 
 ![3D render of the Phase 1 PCB (top side)](images/pcb_3d_top.png)
 
+## Board size
+
+| | Width | Height | Area |
+|---|---|---|---|
+| **mm** | 33.325 mm | 34.65 mm | ≈ 1154.71 mm² |
+| **inches** | ≈ 1.312 in | ≈ 1.364 in | ≈ 1.790 in² |
+
+> Note: the board is still in the design phase, so its dimensions and area may change.
+
 ## Key components
 
 | Ref | Part | Function |
