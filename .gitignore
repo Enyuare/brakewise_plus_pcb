@@ -1,0 +1,7 @@
+# KiCad auto-generated files
+*-backups/
+_restore_backup_*/
+.history/
+~*.lck
+*.bak
+fp-info-cache
