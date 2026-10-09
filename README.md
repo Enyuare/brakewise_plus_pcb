@@ -4,7 +4,7 @@ PCB board design for **Phase 1 of the BrakeWise Plus Tool** (ATI brake tread bod
 
 > ⚠️ **Work in progress — not complete.**
 > This board is still in the design phase. The schematic and layout are not finalized,
-> have not been reviewed, and should not be sent for fabrication.
+> have not been reviewed.
 
 ![3D render of the Phase 1 PCB (top side)](images/pcb_3d_top.png)
 
